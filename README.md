@@ -5,7 +5,7 @@
 Группа: М8О-101БВ-26
 
 Изменение feature-a №1
-Изменение feature-a №2
+Изменение feature-a №2 (feature-b)
 Изменение feature-b №1
 
 
