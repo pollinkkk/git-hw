@@ -1,4 +1,4 @@
-\# Git Homework
+# Git Homework
 
 Автор: Соловьева Полина Александровна
 
@@ -6,5 +6,6 @@
 
 Изменение feature-a №1
 
-Изменение feature-a №2
+Изменение feature-a №2 (main)
+
 
