@@ -1,0 +1,54 @@
+commit 8400492844bc0d309255124528035094042fbc2a
+Author: pollinkkk <Polisola18@gmail.com>
+Date:   Thu Oct 8 15:25:37 2026 +0300
+
+    Создан log.txt
+
+commit aafbd796bb12de874c66824e059e153f42b07d86
+Author: pollinkkk <Polisola18@gmail.com>
+Date:   Thu Oct 8 15:25:31 2026 +0300
+
+    Добавлен conflict.pdf
+
+commit 340540068430e1f4f6ed1ff10d9092970e0153c7
+Merge: 5084dad 4832b58
+Author: pollinkkk <Polisola18@gmail.com>
+Date:   Fri Oct 2 18:54:36 2026 +0300
+
+    Разрешение конфликта при слиянии
+
+commit 5084dadc0428db32a1393b00d6b2e12c99357649
+Author: pollinkkk <Polisola18@gmail.com>
+Date:   Fri Oct 2 18:54:12 2026 +0300
+
+    main: подготовить изменение для конфликта
+
+commit 4832b58bee1d220dbaeac9a0f34a83315e23cf8e
+Author: pollinkkk <Polisola18@gmail.com>
+Date:   Fri Oct 2 18:34:35 2026 +0300
+
+    feature-b: изменить строку для конфликта
+
+commit 1e6128fa9e10a4c497570b50ec3be48120d1fb23
+Author: pollinkkk <Polisola18@gmail.com>
+Date:   Fri Oct 2 18:08:21 2026 +0300
+
+    feature-b: добавить содержание 3-ей строки
+
+commit 0e72be68d1e137675981fc2f76909ae7980f4d81
+Author: pollinkkk <Polisola18@gmail.com>
+Date:   Fri Oct 2 18:04:42 2026 +0300
+
+    feature-a: добавить содержание 4-ой строки
+
+commit be3abed24e85706d1570b28e7787dcf8bb546b39
+Author: pollinkkk <Polisola18@gmail.com>
+Date:   Fri Oct 2 18:03:37 2026 +0300
+
+    feature-a: добавить содержание 3-ей строки
+
+commit 8925332df928b1533c898ea0e94252ad09d2c9c3
+Author: pollinkkk <Polisola18@gmail.com>
+Date:   Fri Oct 2 17:50:31 2026 +0300
+
+    First commit
