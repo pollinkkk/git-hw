@@ -6,6 +6,6 @@
 
 Изменение feature-a №1
 Изменение feature-a №2 
-Изменение feature-b №1
+Изменение feature-b №1 изменения
 
 
